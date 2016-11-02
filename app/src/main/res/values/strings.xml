@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NorcexApp</string>
+    <string name="label">NorcexApp</string>
+    <string name="grant_type_password">password</string>
+    <string name="client_id">$2a$10$2d792671676156c11617aO2/tD7rFEfhH9n/R8YYgFklm5GaZoyGa</string>
+    <string name="client_secret">$2a$10$0b91d91a8b0f17001392fuXIfL3O4B33YKy5xBGNkdNxWywUTKS5G</string>
+</resources>
